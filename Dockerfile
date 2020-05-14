@@ -1,6 +1,6 @@
 
 # Use existing docker image as a base
-FROM alpine:3.11
+FROM alpine:3.11.6
 
 # Define maintainer
 LABEL maintainer="David Trigo (david.trigo@gmail.com)"
